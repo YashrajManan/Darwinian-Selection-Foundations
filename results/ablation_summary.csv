@@ -1,0 +1,5 @@
+condition,mean_slope,frac_significant_positive,frac_significant_negative,mean_total_shift
+full,0.002401,1.0,0.0,0.363778
+ablation_A_zero_variance,0.0,0.0,0.0,0.0
+ablation_B_zero_fitness_diff,0.000007,0.333333,0.366667,-0.005088
+ablation_C_zero_heritability,0.000043,0.4,0.333333,0.000644

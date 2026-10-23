@@ -1,0 +1,17 @@
+# Private, git-ignored per this portfolio's convention -- learning files, not published
+WORKFLOW.md
+PROJECT_NARRATIVE.md
+INTERVIEW_QA.md
+INTERPRETATION.md
+Darwinian_Selection_Foundations_Learning_Compendium.pdf
+darwinian_selection_foundations_pipeline.png
+
+# Blank/hint teaching scaffold -- the clean, filled-in notebook (once he's written his own code
+# and results exist) is what gets pushed
+darwinian_selection_foundations_blank.ipynb
+
+# Standard
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
